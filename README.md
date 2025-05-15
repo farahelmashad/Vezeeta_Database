@@ -13,8 +13,4 @@ This project implements a comprehensive database system designed to manage healt
 - SQL
 - Oracle Forms Builder
 
-## How to Use
-1. Import the SQL scripts to create the database schema and tables in your Oracle Database environment.
-2. Open the Oracle Forms files in Oracle Forms Builder to run and interact with the UI.
-3. Use the forms to add, update, and query healthcare data efficiently.
 
