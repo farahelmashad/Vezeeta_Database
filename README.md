@@ -18,7 +18,3 @@ This project implements a comprehensive database system designed to manage healt
 2. Open the Oracle Forms files in Oracle Forms Builder to run and interact with the UI.
 3. Use the forms to add, update, and query healthcare data efficiently.
 
-## Project Structure
-- `sql/` – Contains SQL scripts for schema and table creation.
-- `forms/` – Oracle Forms files for the user interface.
-
